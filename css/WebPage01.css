@@ -1,0 +1,168 @@
+.tableN
+{
+    width: 500px;
+}
+.Name
+{
+    size: 100px;
+    position: fixed;
+    top: 0px;
+}
+.Page_Index
+{
+    border-width: 500px;
+    box-sizing: border-box;
+    width: 500px;
+}
+html
+{
+    max-width: fit-content;
+    font-size: 15px;
+    background-color: darkblue;
+}
+.I
+{
+    color: lightgreen;
+    background-color: azure;
+}
+h3
+{
+    text-decoration: underline;
+    background-color: teal;
+}
+h1
+{
+    text-decoration: underline;
+    background-color: darkorange;
+}
+h2
+{
+    color: white;
+    background-color: deepskyblue;
+}
+body
+{
+    color: white;
+}
+img
+{
+    width: 320px;
+    height: 460px;
+    position: static;
+}
+#list1
+{
+    font-size: small;
+    font-style: normal;
+}
+.ListFav
+{
+    font-style: italic;
+}
+title
+{
+    color:purple;
+}
+a
+{
+    color:purple;
+}
+h3, .ky
+{
+    position:static;
+    border-top: 5px;
+    border-bottom: 100px;
+    border-radius: 50%;
+    border-color: white;
+    background-color: black;
+    color: turquoise;
+    width: 500px;
+}
+h5, #try
+{
+    color: beige;
+    width: 500px;
+}
+h4, .ty
+{
+    color: aqua;
+    width: 500px;
+    
+}
+span
+{
+    font-size: 50pt;
+    color: darkred;
+}
+.sparetime, .ListFav, .I, .ty
+{
+    border: dashed;
+    width: 500px;
+}
+.FormInput
+{
+    padding: 15px;
+    background-color: orange;
+    font-style: italic;
+    border-style:solid;
+    font-weight: 600px;
+
+}
+.FormInput, p
+{
+    width: 500px;
+}
+h3, .forumstuff, Suggestions
+{
+    input-security: inherit;
+}
+#melm, .eme
+{
+    width: 4in;
+    height: 3in;
+    border-width: 500px;
+    image-resolution: inherit;
+}
+#imageEden
+{
+    position: bottom;
+    border-width: 15cm;
+    border: dashed;
+    border-color: rgb(255, 104, 104);
+    image-rendering: auto;
+    width: fit-content;
+    font-size: large;
+    font-style: italic;
+}
+.videoGamedev
+{
+    position: relative;
+}
+
+.contactHead
+{
+    position: fixed;
+    top: 0px;
+    font-size: large;
+    border-width: 15cm;
+    border: dashed;
+    border-color: rgb(255, 104, 104);
+    background-color: black;
+}
+
+.story1
+{
+    font-size: large;
+    border-width: 15cm;
+    border: dashed;
+    border-color: rgb(255, 104, 104);
+    background-color: black;
+}
+
+.StoryHead
+{
+    font-size: large;
+    border: dashed;
+    border-color: rgb(255, 104, 104);
+    background-color: black;
+}
